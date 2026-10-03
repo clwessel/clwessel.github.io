@@ -1,0 +1,44 @@
+project:
+  type: website
+website:
+  title: "Connor Wessel"
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: cv.qmd
+        text: CV
+      - href: blog.qmd
+        text: Blog
+    tools: 
+      - icon: envelope
+        href: first_last@gmail.com
+      - icon: github
+        href: https://github.com/wesselc-mcm
+      - icon: linkedin
+        href: https://www.linkedin.com/in/connor-l-wessel/
+  back-to-top-navigation: true
+  reader-mode: false
+  repo-url: https://github.com/wesselc-mcm/ch2_masking
+  repo-actions: [source, issue]
+  open-graph: true
+code-fold: show
+code-tools: false
+code-annotations: hover
+code-block-border-left: true
+code-line-numbers: true
+syntax-highlighting: atom-one
+respect-user-color-scheme: true
+lightbox: true
+format: 
+    html:
+        theme:
+          light: [flatly]
+          dark: [darkly]
+        css: style.css
+        toc: true
+        toc-title: "Sections"
+        other-links: false
+execute:
+    warning: false
+

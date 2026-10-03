@@ -1,0 +1,150 @@
+---
+title: "Curriculum Vitae"
+---
+
+
+# Summary
+
+- Psychology Ph.D. Graduate, specialising in auditory perception, psychophysics, and human factors.
+- My research largely focused on understanding our perception of musical sound and how this applies to the design of safety-critical auditory alarms.
+- To this end, I have employed numerous cognitive experimental methods, and a wide range of quantitative methods to derive meaning from subsequent data.
+- I am now keen to transition into user experience based research and data science.
+
+# Experience
+
++:----------------------------+:--------------------------------------------------------------------------------------------------------------+:----------------------+
+| Ph.D. Candidate Researcher  | - **Employer**: McMaster University                                                                           | *Sep 2022 - Aug 2026* |
+|                             |     * Designed and conducted cognitive and psychophysical experiments.                                        |                       |
+|                             |     * Used a variety of statistical methods to analyse data and draw conclusions.                             |                       |
+|                             |     * Communicated research in conference presentations and in peer-reviewed articles.                        |                       |
+|                             |     * Provided mentorship to undergraduate lab members, including supervision of research theses.             |                       |
+|                             |     * Maintained a documented archive of past data to ensure accessibility for colleagues.                    |                       |
+|                             |     * Managed my own continuous learning of new literature, programming skills, and other relevant knowledge. |                       |
++-----------------------------+---------------------------------------------------------------------------------------------------------------+-----------------------+
+| Teaching Assistant          | - **Employer**: McMaster University                                                                           | *Sep 2022 - May 2026* |
+|                             |     * Primarily led tutorials and provided feedback on assignments.                                           |                       |
+|                             |     * Topics included science communication, music cognition, and both frequentist and bayesian statistics.   |                       |
+|                             |     * Suited my communication of complex ideas to the needs and backgrounds of the students.                  |                       |
+|                             |     * Continuously learned and revised the curriculum to ensure I was well prepared for tutorials.            |                       |
+|                             |     * Worked alongside teams of teaching assistants and the course lead to ensure consistency.                |                       |
+|                             |     * Planned my marking time to ensure punctual turnover without overlooking my research.                    |                       |
++-----------------------------+---------------------------------------------------------------------------------------------------------------+-----------------------+
+: {.hover .borderless}
+
+# Education
+
++:------------------------+:-------------------------------------------------------------------------------------------------------------------------------+:----------------------+
+| **Ph.D.** in Psychology | - **Institute**: McMaster University                                                                                           | *Sep 2022 - Aug 2026* |
+|                         | - **Thesis**: Amplitude Envelope in Auditory Perception Research: Finding Perceived Equality Between Flat and Percussive Tones |                       |
+|                         | - **Supervisor**: Dr. Michael Schutz                                                                                           |                       |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| **M.Sc.** in Psychology | - **Institute**: University of Plymouth                                                                                        | *Sep 2021 - Aug 2022* |
+|                         | - **Thesis**: Benchmarking the effectiveness of digital bike bells                                                             |                       |
+|                         | - **Supervisor**: Dr. Judy Edworthy                                                                                            |                       |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+| **B.Sc.** in Psychology | - **Institute**: University of Plymouth                                                                                        | *Sep 2017 - May 2021* |
+|                         | - **Thesis**: Measuring identication of auditory alarms during engagement in a working memory task                             |                       |
+|                         | - **Supervisor**: Dr. Judy Edworthy                                                                                            |                       |
++-------------------------+--------------------------------------------------------------------------------------------------------------------------------+-----------------------+
+: {.hover .borderless}
+
+# Funding and awards
+
++:------------------------------+:-----------------------------------------------------------------------------------------------------+:----------------------+
+| Teaching Assistant Award      | - **Awarding body**: Council of Canadian Departments of Psychology                                   | *Jun 2026*            |
+|                               |   * Recognition of exceptional effort in teaching assistance for Introduction to Bayesian Inference. |                       |
+|                               | - **Value**: $50 (CAD)                                                                               |                       |
++-------------------------------+------------------------------------------------------------------------------------------------------+-----------------------+
+| Ontario Graduate Scholarship \| - **Awarding body**: Government of Ontario                                                           | *Sep 2024 - May 2026* |
+| (x2)                          |   * Funding awarded based on my research efficacy and contribution.                                  |                       |
+|                               | - **Value**: $15,000 (CAD) each ($30,000 total)                                                      |                       |
++-------------------------------+------------------------------------------------------------------------------------------------------+-----------------------+
+| Best Student Poster Award     | - **Awarding body**: The Acoustical Society of America                                               | *May 2024*            |
+|                               | - **Value**: $200 (USD)                                                                              |                       |
++-------------------------------+------------------------------------------------------------------------------------------------------+-----------------------+
+| Highest achievement award     | - **Awarding body**: University of Plymouth                                                          | *Dec 2022*            |
+|                               |   * Highest overall grade in my cohort.                                                              |                       |
+|                               | - **Value**: £50                                                                                     |                       |
++-------------------------------+------------------------------------------------------------------------------------------------------+-----------------------+
+| Pam Jacobs Memorial Prize     | - **Awarding body**: Council of Canadian Departments of Psychology                                   | *Sep 2021*            |
+|                               |   * Best bachelor's thesis in the area of applied psychology.                                        |                       |
+|                               | - **Value**: £50                                                                                     |                       |
++-------------------------------+------------------------------------------------------------------------------------------------------+-----------------------+
+: {.hover .borderless}
+
+# Publications
+
+## Journal Articles
+
+::: {.list-table header-rows=0 .hover .borderless}
+
+- - **Wessel, C.**, & Schutz, M. (In review). Amplitude Envelope and Loudness: Finding Perceived Equality between Flat and Percussive Tones. *Auditory Perception & Cognition*.
+- - **Wessel, C.**, Agbolade, J., Elizondo Lopez, A., & Schutz, M. (In press). Investigating Amplitude Envelope’s Role in Auditory Alarm Masking. *Quarterly Journal of Experimental Psychology*.
+- - **Wessel, C.**, Zhang, C., & Schutz, M. (2026). Amplitude envelope and subjective duration: Quantifying the role of decaying offsets in timing perception. *Attention, Perception, & Psychophysics, 88(1), 35*. https://doi.org/10.3758/s13414-025-03186-4
+- - Burdick, K. J., Yang, S., Lopez, A. E., **Wessel, C.**, Schutz, M., & Schlesinger, J. J. (2023). Auditory roughness: A delicate balance. *British Journal of Anaesthesia, 131(4)*, 649–652. https://doi.org/10.1016/j.bja.2023.07.003
+- - Edworthy, J., Edworthy, J., Reed, D., **Wessel, C.**, & Lawrence, L. (2021). Ergonomic Auditory Alarm Signals for the Oil and Chemical Processing Industry. *IISE Transactions on Occupational Ergonomics and Human Factors, 9(2)*, 86–95. https://doi.org/10.1080/24725838.2021.2012730
+
+:::
+
+## Conference Proceedings
+
+::: {.list-table header-rows=0 .hover .borderless}
+
+- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024). Adaptively Matching Perceptual Duration of Flat and Percussive Tones. *Canadian Acoustics, 52(1)*, Article 1. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4175
+- - Edworthy, J., Brown, R., & **Wessel, C.** (2023). Where’s that bike? Sounds and metrics for a smart bicycle bell. *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1)*, 2519–2524. https://doi.org/10.1177/21695067231192480
+- - Edworthy, J., Reed, D., **Wessel, C.**, Lawrence, L., & Edworthy, J. (2023). Designing, evaluating, and benchmarking auditory alarms for the chemical and oil processing industry. *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1)*, 1660–1664. https://doi.org/10.1177/21695067231192443
+- - **Wessel, C.**, & Schutz, M. (2023). Improving the Detection of Melodic Sequences Through the Addition of Inharmonic Frequencies. *Canadian Acoustics, 51(3)*, Article 3.
+
+:::
+
+# Presentations
+
+## Talks
+
+::: {.list-table header-rows=0 .hover .borderless}
+
+- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, July). Equating perceived duration between flat and percussivetones through an adaptive staircase. Presented at The Society for Music Perception and CognitionConference, Banff, Alberta, Canada.
+- - **Wessel, C.** & Schutz, M. (2023, October). Improving the detectability of auditory alarms by adding highharmonics. Presented at Acoustics Week Canada, Montréal, Quebec, Canada.
+- - Elizondo Lopez, A., **Wessel, C.** & Schutz, M. (2023, March). Improving the detection of auditory alarms byadding orchestral triangle frequencies. Presented at The York Graduate Symposium – Forward Motion,Toronto, Ontario, Canada.
+
+:::
+
+## Posters
+
+::: {.list-table header-rows=0 .hover .borderless}
+
+- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, November). Adaptively equating perceived duration of flat and percussive tones. Presented at Neuromusic, Hamilton, Ontario, Canada.
+- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, May). Adaptively matching the perceptual duration of flat andpercussive tones. Presented at The Meeting of the Acoustical Society of America, Ottawa, Ontario,Canada.
+- - **Wessel, C.** & Schutz, M. (2024, February). Measuring how perceptual binding influences discrimination ofmelodic sequences. Presented at The Lower Ontario Visionary Establishment Conference, NiagaraFalls, Ontario, Canada.
+- - **Wessel, C.** & Schutz, M. (2024, January). Visualising differences between strikes on a cymbal.Presented at The Space Between, Montréal, Quebec, Canada.
+- - Zhang, C.,**Wessel, C.**, & Schutz, M. (2024, February). Assessing the Perceived Duration of Percussive Tones(Poster). Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.
+- - **Wessel, C.** & Schutz, M. (2023, November). Improving sound discrimination through Gestalt binding ofinharmonic frequencies. Presented at Neuromusic, Hamilton, Ontario, Canada.
+- - Edworthy, J., **Wessel, C.**, & Brown, R. (2023, June). Developing sounds and metrics for a smart bicycle bell(Poster). Presented at The International Conference on Auditory Display, Norrköping, Sweden.
+- - **Wessel, C.** & Schutz, M. (2023, February). Improving the detectability of auditory alarms by adding highharmonics. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls,Ontario, Canada.
+
+:::
+
+# Technical proficiencies
+
+::: {.list-table header-rows=0 .hover .borderless aligns="r,l"}
+
+- - **R:**
+  - tidyverse, ggplot2, lme4, brms, shiny
+- - **Python:**
+  - pandas, matplotlib, scikit-learn, mcmc
+- - **Microsoft Office:**
+  - Excel, Word, Powerpoint
+- - **Quarto**
+- - **SQL**
+- - **Javascript**
+- - **Git:**
+  - Github
+
+:::
+
+# Hobbies and Interests
+
+- I am an avid musician, playing trumpet, piano, and singing in choirs. I play music in both recreational and professional contexts. I also enjoy active listening to a wide range of musical genres (particularly classical, jazz, and folk), and writing of my own music.
+- I am an advocate and enthusiast for public transport networks. I find interest in researching histories of various cities networks, and considering how the design promotes (or hinders) efficient movement of people.
+- I enjoy playing video games, particularly narrative driven role-play games and sandbox games. My favourite games include Baldur's Gate 2: Shadows of Amn, LittleBigPlanet, and Minecraft. I have also written and programmed mods for various games.
+

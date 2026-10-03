@@ -1,0 +1,26 @@
+.level1 h1 {
+  text-align: center;
+}
+
+.level1 ul li {
+  list-style-type: "\2023";
+  padding-left: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.table-borderless {
+  border-style: hidden;
+}
+
+h1:not(.title) {
+  border-top: 2px solid var(--bslib-page-sidebar-title-bg, red);
+  border-bottom: 2px solid var(--bslib-page-sidebar-title-bg, red);
+  padding: 1rem;
+}
+
+.vidcap {
+  text-align: center;
+  color: grey;
+  font-size: 14px;
+}
+
