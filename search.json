@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "I plan to add regular blog posts here centered around research, data analysis, tutorials, and other things which catch my fancy. Stay tuned!\n\n\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "about.html#my-projects",
+    "href": "about.html#my-projects",
+    "title": "About",
+    "section": "My projects",
+    "text": "My projects\n\n\n\nMy research career began at the University of Plymouth, England. I undertook a research assistantship with Dr. Judy Edworthy, where I first became acquainted with research into the design of auditory alerts. I completed my Bachelors and Masters thesis with her; the former focused on sounds in the chemical refinery industries, the latter on design of digital bike bells. The results from the study of bike bells ultimately influenced the design of a recently released digital bike bell from the globally prolific Trek bikes company.\n\n\n\nA video from Trek demonstrating their scientifically-informed bell!\n\n\n\n\n\n\n\n\n\n\nI featured in a news piece by Global News Toronto on the MAPLE Lab’s alarms research\n\n\nGiven the fulfilment I had from research into auditory alerts, I was delighted to join the MAPLE Lab, under the supervision of Dr. Michael Schutz. My research contributed to the lab’s project of taking a musically-informed approach to improving alarm efficacy in hospitals. I focused on comparing perception between sounds of differing timbre, finding whether a piano-like ‘percussive’ timbre could be of benefit in sound design. In combination with other studies from our lab, we set up a strong case for percussive sounds being easier to detect and less aversive for hospital staff.\n\n\n\nTo see my work in greater depth, take a look at my publications!"
+  },
+  {
+    "objectID": "about.html#future",
+    "href": "about.html#future",
+    "title": "About",
+    "section": "Future",
+    "text": "Future\nDuring the course of my studies, I came to be fascinated by the quantitative methods used as part of the scientific method. I became especially intrigued by the use of Bayesian inference for deriving logically sensible conclusions from data (which I employed as part of my Ph.D. thesis). Consequently, I am now transitioning into data science, such that I can focus on handling data, and the art of deciding how to analyse and present it."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Connor Wessel",
+    "section": "",
+    "text": "Psychology Ph.D. graduate specialising in cognitive and behavioural sciences, psychophysics, and data science.\n\n\n Back to top"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Psychology Ph.D. Graduate, specialising in auditory perception, psychophysics, and human factors.\nMy research largely focused on understanding our perception of musical sound and how this applies to the design of safety-critical auditory alarms.\nTo this end, I have employed numerous cognitive experimental methods, and a wide range of quantitative methods to derive meaning from subsequent data.\nI am now keen to transition into user experience based research and data science."
+  },
+  {
+    "objectID": "cv.html#journal-articles",
+    "href": "cv.html#journal-articles",
+    "title": "Curriculum Vitae",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n\n\nWessel, C., & Schutz, M. (In review). Amplitude Envelope and Loudness: Finding Perceived Equality between Flat and Percussive Tones. Auditory Perception & Cognition.\n\n\nWessel, C., Agbolade, J., Elizondo Lopez, A., & Schutz, M. (In press). Investigating Amplitude Envelope’s Role in Auditory Alarm Masking. Quarterly Journal of Experimental Psychology.\n\n\nWessel, C., Zhang, C., & Schutz, M. (2026). Amplitude envelope and subjective duration: Quantifying the role of decaying offsets in timing perception. Attention, Perception, & Psychophysics, 88(1), 35. https://doi.org/10.3758/s13414-025-03186-4\n\n\nBurdick, K. J., Yang, S., Lopez, A. E., Wessel, C., Schutz, M., & Schlesinger, J. J. (2023). Auditory roughness: A delicate balance. British Journal of Anaesthesia, 131(4), 649–652. https://doi.org/10.1016/j.bja.2023.07.003\n\n\nEdworthy, J., Edworthy, J., Reed, D., Wessel, C., & Lawrence, L. (2021). Ergonomic Auditory Alarm Signals for the Oil and Chemical Processing Industry. IISE Transactions on Occupational Ergonomics and Human Factors, 9(2), 86–95. https://doi.org/10.1080/24725838.2021.2012730"
+  },
+  {
+    "objectID": "cv.html#conference-proceedings",
+    "href": "cv.html#conference-proceedings",
+    "title": "Curriculum Vitae",
+    "section": "Conference Proceedings",
+    "text": "Conference Proceedings\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024). Adaptively Matching Perceptual Duration of Flat and Percussive Tones. Canadian Acoustics, 52(1), Article 1. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4175\n\n\nEdworthy, J., Brown, R., & Wessel, C. (2023). Where’s that bike? Sounds and metrics for a smart bicycle bell. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1), 2519–2524. https://doi.org/10.1177/21695067231192480\n\n\nEdworthy, J., Reed, D., Wessel, C., Lawrence, L., & Edworthy, J. (2023). Designing, evaluating, and benchmarking auditory alarms for the chemical and oil processing industry. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1), 1660–1664. https://doi.org/10.1177/21695067231192443\n\n\nWessel, C., & Schutz, M. (2023). Improving the Detection of Melodic Sequences Through the Addition of Inharmonic Frequencies. Canadian Acoustics, 51(3), Article 3."
+  },
+  {
+    "objectID": "cv.html#talks",
+    "href": "cv.html#talks",
+    "title": "Curriculum Vitae",
+    "section": "Talks",
+    "text": "Talks\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, July). Equating perceived duration between flat and percussivetones through an adaptive staircase. Presented at The Society for Music Perception and CognitionConference, Banff, Alberta, Canada.\n\n\nWessel, C. & Schutz, M. (2023, October). Improving the detectability of auditory alarms by adding highharmonics. Presented at Acoustics Week Canada, Montréal, Quebec, Canada.\n\n\nElizondo Lopez, A., Wessel, C. & Schutz, M. (2023, March). Improving the detection of auditory alarms byadding orchestral triangle frequencies. Presented at The York Graduate Symposium – Forward Motion,Toronto, Ontario, Canada."
+  },
+  {
+    "objectID": "cv.html#posters",
+    "href": "cv.html#posters",
+    "title": "Curriculum Vitae",
+    "section": "Posters",
+    "text": "Posters\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, November). Adaptively equating perceived duration of flat and percussive tones. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, May). Adaptively matching the perceptual duration of flat andpercussive tones. Presented at The Meeting of the Acoustical Society of America, Ottawa, Ontario,Canada.\n\n\nWessel, C. & Schutz, M. (2024, February). Measuring how perceptual binding influences discrimination ofmelodic sequences. Presented at The Lower Ontario Visionary Establishment Conference, NiagaraFalls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2024, January). Visualising differences between strikes on a cymbal.Presented at The Space Between, Montréal, Quebec, Canada.\n\n\nZhang, C.,Wessel, C., & Schutz, M. (2024, February). Assessing the Perceived Duration of Percussive Tones(Poster). Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2023, November). Improving sound discrimination through Gestalt binding ofinharmonic frequencies. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nEdworthy, J., Wessel, C., & Brown, R. (2023, June). Developing sounds and metrics for a smart bicycle bell(Poster). Presented at The International Conference on Auditory Display, Norrköping, Sweden.\n\n\nWessel, C. & Schutz, M. (2023, February). Improving the detectability of auditory alarms by adding highharmonics. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls,Ontario, Canada."
+  }
+]
