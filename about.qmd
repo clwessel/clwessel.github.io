@@ -12,7 +12,7 @@ I am a recent Ph.D. graduate from McMaster University's [MAPLE Lab](https://mapl
 
 ::: {layout-ncol=2}
 
-My research career began at the University of Plymouth, England. I undertook a research assistantship with [Dr. Judy Edworthy](https://en.wikipedia.org/wiki/Judy_Edworthy), where I first became acquainted with research into the design of auditory alerts. I completed my Bachelors and Masters thesis with her; the former focused on sounds in the [chemical refinery industries](https://www.tandfonline.com/doi/abs/10.1080/24725838.2021.2012730), the latter on design of [digital bike bells](https://journals.sagepub.com/doi/abs/10.1177/21695067231192480). The results from the study of bike bells ultimately influenced the design of a recently released digital bike bell from the globally prolific Trek bikes company.
+My research career began at the University of Plymouth, England. I undertook a research assistantship with [Dr. Judy Edworthy](https://en.wikipedia.org/wiki/Judy_Edworthy), where I first became acquainted with research into the design of auditory alerts. I completed my Bachelors and Masters thesis with her; the former focused on sounds in the [chemical refinery industries](https://www.tandfonline.com/doi/abs/10.1080/24725838.2021.2012730), the latter on design of [digital bike bells](https://journals.sagepub.com/doi/abs/10.1177/21695067231192480). The results from the study of bike bells ultimately influenced the design of a recently released digital bike bell from the globally prolific Trek bikes company. 
 
 ::: {.vidcap}
 
