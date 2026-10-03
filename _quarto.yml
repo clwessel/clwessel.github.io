@@ -2,6 +2,8 @@ project:
   type: website
 website:
   title: "Connor Wessel"
+  site-url: https://www.clwessel.github.io/website
+  description: "Website of Connor Wessel"
   navbar:
     left:
       - href: about.qmd
@@ -12,15 +14,20 @@ website:
         text: Blog
     tools: 
       - icon: envelope
-        href: first_last@gmail.com
+        href: clwessel@proton.me
       - icon: github
-        href: https://github.com/wesselc-mcm
+        href: https://github.com/clwessel
       - icon: linkedin
         href: https://www.linkedin.com/in/connor-l-wessel/
+  page-footer: 
+    left: "Last updated: October 2026" 
+    right:
+      - text: Made using Quarto
+        href: https://quarto.org/
   back-to-top-navigation: true
   reader-mode: false
-  repo-url: https://github.com/wesselc-mcm/ch2_masking
-  repo-actions: [source, issue]
+  repo-url: https://github.com/clwessel/website
+  repo-actions: [source]
   open-graph: true
 code-fold: show
 code-tools: false
@@ -39,6 +46,8 @@ format:
         toc: true
         toc-title: "Sections"
         other-links: false
+        link-external-icon: true
+        link-external-newwindow: true
 execute:
     warning: false
 

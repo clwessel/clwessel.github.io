@@ -2,6 +2,5 @@
 title: Page not found
 ---
 
-Uh oh! It looks like you got a bit lost. [Return to home page](index.qmd)
+[Return to home page](index.qmd)
 
-![](images/BtkAg5adF1Wi.gif)

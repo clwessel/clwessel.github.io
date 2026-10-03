@@ -2,7 +2,7 @@
 title: "Connor Wessel"
 about:
   template: jolla
-  image: images/yuh.jpeg
+  image: images/icon.JPG
   links:
     - icon: linkedin
       text: Linkedin
@@ -12,7 +12,7 @@ about:
       href: https://github.com/clwessel
     - icon: envelope
       text: Email
-      href: first_last@gmail.com
+      href: clwessel@proton.me
 ---
 
-Psychology Ph. D. graduate specialising in cognitive and behavioural sciences, psychophysics, and data science.
+Psychology Ph.D. graduate specialising in cognitive and behavioural sciences, psychophysics, and data science.

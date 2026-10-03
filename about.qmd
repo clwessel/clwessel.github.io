@@ -1,9 +1,8 @@
 ---
 title: "About"
-toc-level: 2
 ---
 
-{{< placeholder 800 350 format=svg >}}
+![](images/banner.JPG){.nolightbox}
 
 # Bio
 
