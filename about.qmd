@@ -6,7 +6,7 @@ title: "About"
 
 # Bio
 
-I am a recent Ph.D. graduate from McMaster University's [MAPLE Lab](https://maplelab.net/) in Canada. My main research interests are in psychoacoustics, music cognition and human factors. More specifically, I have conducted and contributed to research exploring how insights from music and psychoacoustics informs our design of safety-critical alert sounds, ranging from bicycle bells to medical devices. As a musician growing up with an interest in science, knowing I could conduct research into sound while applying it to all-important issues of peoples' wellbeing has been immensely satisfying!
+I am a recent Ph.D. graduate from McMaster University's [MAPLE Lab](https://maplelab.net/) in Canada. My main research interests are in psychoacoustics, music cognition and human factors. More specifically, I have conducted and contributed to research exploring how insights from music and psychoacoustics informs our design of safety-critical alert sounds, ranging from bicycle bells to medical devices. As a musician growing up with an interest in science, knowing I could conduct research into sound while applying it to all-important issues of peoples' wellbeing has been immensely satisfying. Beyond my research, I love all things music - I play trumpet, piano, and sing in choirs!
 
 ## My projects
 
@@ -40,7 +40,7 @@ Given the fulfilment I had from research into auditory alerts, I was delighted t
 
 :::
 
-To see my work in greater depth, take a look at my [publications](cv.qmd#publications)!
+To see my work in greater depth, take a look at my [<u>publications</u>](cv.qmd#publications)!
 
 ## Future
 

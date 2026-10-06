@@ -80,9 +80,9 @@ title: "Curriculum Vitae"
 
 - - **Wessel, C.**, & Schutz, M. (In review). Amplitude Envelope and Loudness: Finding Perceived Equality between Flat and Percussive Tones. *Auditory Perception & Cognition*.
 - - **Wessel, C.**, Agbolade, J., Elizondo Lopez, A., & Schutz, M. (In press). Investigating Amplitude Envelope’s Role in Auditory Alarm Masking. *Quarterly Journal of Experimental Psychology*.
-- - **Wessel, C.**, Zhang, C., & Schutz, M. (2026). Amplitude envelope and subjective duration: Quantifying the role of decaying offsets in timing perception. *Attention, Perception, & Psychophysics, 88(1), 35*. https://doi.org/10.3758/s13414-025-03186-4
-- - Burdick, K. J., Yang, S., Lopez, A. E., **Wessel, C.**, Schutz, M., & Schlesinger, J. J. (2023). Auditory roughness: A delicate balance. *British Journal of Anaesthesia, 131(4)*, 649–652. https://doi.org/10.1016/j.bja.2023.07.003
-- - Edworthy, J., Edworthy, J., Reed, D., **Wessel, C.**, & Lawrence, L. (2021). Ergonomic Auditory Alarm Signals for the Oil and Chemical Processing Industry. *IISE Transactions on Occupational Ergonomics and Human Factors, 9(2)*, 86–95. https://doi.org/10.1080/24725838.2021.2012730
+- - <a href="https://link.springer.com/article/10.3758/s13414-025-03186-4">**Wessel, C.**, Zhang, C., & Schutz, M. (2026). Amplitude envelope and subjective duration: Quantifying the role of decaying offsets in timing perception. *Attention, Perception, & Psychophysics, 88(1), 35*. https://doi.org/10.3758/s13414-025-03186-4</a>
+- - <a href="https://www.bjanaesthesia.org/article/S0007-0912(23)00371-9/fulltext">Burdick, K. J., Yang, S., Lopez, A. E., **Wessel, C.**, Schutz, M., & Schlesinger, J. J. (2023). Auditory roughness: A delicate balance. *British Journal of Anaesthesia, 131(4)*, 649–652. https://doi.org/10.1016/j.bja.2023.07.003</a>
+- - <a href="https://www.tandfonline.com/doi/full/10.1080/24725838.2021.2012730">Edworthy, J., Edworthy, J., Reed, D., **Wessel, C.**, & Lawrence, L. (2021). Ergonomic Auditory Alarm Signals for the Oil and Chemical Processing Industry. *IISE Transactions on Occupational Ergonomics and Human Factors, 9(2)*, 86–95. https://doi.org/10.1080/24725838.2021.2012730</a>
 
 :::
 
@@ -90,10 +90,10 @@ title: "Curriculum Vitae"
 
 ::: {.list-table header-rows=0 .hover .borderless}
 
-- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024). Adaptively Matching Perceptual Duration of Flat and Percussive Tones. *Canadian Acoustics, 52(1)*, Article 1. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4175
-- - Edworthy, J., Brown, R., & **Wessel, C.** (2023). Where’s that bike? Sounds and metrics for a smart bicycle bell. *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1)*, 2519–2524. https://doi.org/10.1177/21695067231192480
-- - Edworthy, J., Reed, D., **Wessel, C.**, Lawrence, L., & Edworthy, J. (2023). Designing, evaluating, and benchmarking auditory alarms for the chemical and oil processing industry. *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1)*, 1660–1664. https://doi.org/10.1177/21695067231192443
-- - **Wessel, C.**, & Schutz, M. (2023). Improving the Detection of Melodic Sequences Through the Addition of Inharmonic Frequencies. *Canadian Acoustics, 51(3)*, Article 3.
+- - <a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/download/4175/3672/7543">**Wessel, C.**, Zhang, C., & Schutz, M. (2024). Adaptively Matching Perceptual Duration of Flat and Percussive Tones. *Canadian Acoustics, 52(1)*, Article 1. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4175</a>
+- - <a href="https://journals.sagepub.com/doi/10.1177/21695067231192480">Edworthy, J., Brown, R., & **Wessel, C.** (2023). Where’s that bike? Sounds and metrics for a smart bicycle bell. *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1)*, 2519–2524. https://doi.org/10.1177/21695067231192480</a>
+- - <a href="https://journals.sagepub.com/doi/10.1177/21695067231192443">Edworthy, J., Reed, D., **Wessel, C.**, Lawrence, L., & Edworthy, J. (2023). Designing, evaluating, and benchmarking auditory alarms for the chemical and oil processing industry. *Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 67(1)*, 1660–1664. https://doi.org/10.1177/21695067231192443</a>
+- - <a href="https://jcaa.caa-aca.ca/index.php/jcaa/article/view/4073">**Wessel, C.**, & Schutz, M. (2023). Improving the Detection of Melodic Sequences Through the Addition of Inharmonic Frequencies. *Canadian Acoustics, 51(3)*, Article 3.</a>
 
 :::
 

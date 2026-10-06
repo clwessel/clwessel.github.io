@@ -1,26 +1,35 @@
-.level1 h1 {
+.level1 h1 { /* Centre justification for level 1 headings */
   text-align: center;
 }
 
-.level1 ul li {
-  list-style-type: "\2023";
-  padding-left: 0.5rem;
-  margin-bottom: 0.5rem;
+.level1 ul li { /* Change style for bullet points */
+  list-style-type: "\2023"; /* Change points to triangles */
+  padding-left: 0.5rem; /* Increase horizontal space */
+  margin-bottom: 0.5rem; /* Increase vertical space */
 }
 
-.table-borderless {
+.table-borderless { /* Hide all borders in tables possessing the 'borderless' class */
   border-style: hidden;
 }
 
-h1:not(.title) {
-  border-top: 2px solid var(--bslib-page-sidebar-title-bg, red);
-  border-bottom: 2px solid var(--bslib-page-sidebar-title-bg, red);
-  padding: 1rem;
+h1:not(.title) { /* Change style for level 1 headings */
+  border-top: 2px solid var(--bslib-page-sidebar-title-bg, red); /* Add border above heading */
+  border-bottom: 2px solid var(--bslib-page-sidebar-title-bg, red); /* Add border below heading */
+  padding: 1rem; /* Add vertical space */
 }
 
-.vidcap {
-  text-align: center;
-  color: grey;
-  font-size: 14px;
+.vidcap { /* CSS class specifically for video captions */
+  text-align: center; /* Centre caption text */
+  color: grey; /* Change font colour to grey */
+  font-size: 14px; /* Slightly reduce font size */
 }
 
+a:link.external, a:visited.external { /* Change weblink style */
+  color: var(--bs-body-color, red); /* Change link colour to match the text default */
+  text-decoration-line: none; /* Remove underlining */
+}
+
+a:hover.external { /* Change weblink style when hovered over */
+  color: var(--bs-link-color, green); /* Adopt default link colour */
+  text-decoration-line: underline; /* Underline the text */
+}

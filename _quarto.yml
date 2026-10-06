@@ -15,10 +15,16 @@ website:
     tools: 
       - icon: envelope
         href: clwessel@proton.me
+        text: Email
       - icon: github
         href: https://github.com/clwessel
+        text: Github
       - icon: linkedin
         href: https://www.linkedin.com/in/connor-l-wessel/
+        text: Linkedin
+      - icon: code-slash
+        href: https://github.com/clwessel/clwessel.github.io
+        text: Source code
   page-footer: 
     left: "Last updated: October 2026" 
     right:
@@ -29,14 +35,9 @@ website:
   repo-url: https://github.com/clwessel/clwessel.github.io
   repo-actions: [source]
   open-graph: true
-code-fold: show
-code-tools: false
-code-annotations: hover
 code-block-border-left: true
 code-line-numbers: true
 syntax-highlighting: atom-one
-respect-user-color-scheme: true
-lightbox: true
 format: 
     html:
         theme:
@@ -48,6 +49,12 @@ format:
         other-links: false
         link-external-icon: true
         link-external-newwindow: true
+        respect-user-color-scheme: true
+        lightbox: true
+        code-fold: show
+        code-tools: false
+        code-annotations: hover
 execute:
     warning: false
+    freeze: true
 
