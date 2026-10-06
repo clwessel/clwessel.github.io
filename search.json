@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "My Blog",
-    "section": "",
-    "text": "I plan to add regular blog posts here centered around research, data analysis, tutorials, and other things which catch my fancy. Stay tuned!\n\n\n\n\n\n\n\n\nNo matching items\n Back to top"
-  },
-  {
     "objectID": "about.html#my-projects",
     "href": "about.html#my-projects",
     "title": "About",
@@ -61,5 +54,12 @@
     "title": "Curriculum Vitae",
     "section": "Posters",
     "text": "Posters\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, November). Adaptively equating perceived duration of flat and percussive tones. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, May). Adaptively matching the perceptual duration of flat andpercussive tones. Presented at The Meeting of the Acoustical Society of America, Ottawa, Ontario,Canada.\n\n\nWessel, C. & Schutz, M. (2024, February). Measuring how perceptual binding influences discrimination ofmelodic sequences. Presented at The Lower Ontario Visionary Establishment Conference, NiagaraFalls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2024, January). Visualising differences between strikes on a cymbal.Presented at The Space Between, Montréal, Quebec, Canada.\n\n\nZhang, C.,Wessel, C., & Schutz, M. (2024, February). Assessing the Perceived Duration of Percussive Tones(Poster). Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2023, November). Improving sound discrimination through Gestalt binding ofinharmonic frequencies. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nEdworthy, J., Wessel, C., & Brown, R. (2023, June). Developing sounds and metrics for a smart bicycle bell(Poster). Presented at The International Conference on Auditory Display, Norrköping, Sweden.\n\n\nWessel, C. & Schutz, M. (2023, February). Improving the detectability of auditory alarms by adding highharmonics. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls,Ontario, Canada."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "I plan to add regular blog posts here centered around research, data analysis, tutorials, and other things which catch my fancy. Stay tuned!\n\n\n\n\n\n\n\n\nNo matching items\n Back to top"
   }
 ]
