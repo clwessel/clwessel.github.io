@@ -52,4 +52,4 @@ Check in each week for a new song of the week, as selected by me! This is mostly
 
 \
 
-{{< video https://www.youtube.com/watch?v=cXu0zuOKQ2A&list=RDcXu0zuOKQ2A&start_radio=1 >}}
+{{< video https://www.youtube.com/watch?v=i530RfDp1G0&list=RDi530RfDp1G0&start_radio=1&pp=ygUPbnVhaXIgYSBjaGkgdGh1oAcB >}}
