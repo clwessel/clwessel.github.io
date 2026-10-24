@@ -26,7 +26,7 @@ with open("about.qmd") as f:
         d = d.replace(links[ind - 1], links[ind]) # Replace current song with next song in the list
 
 # Write about file with new song in its place
-with open("test.qmd",'w') as o:
+with open("about.qmd",'w') as o:
     o.write(d)
     print("Successful write")
 
