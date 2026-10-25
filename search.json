@@ -11,7 +11,7 @@
     "href": "about.html#future",
     "title": "About",
     "section": "Future",
-    "text": "Future\nDuring the course of my studies, I came to be fascinated by the quantitative methods used as part of the scientific method. I became especially intrigued by the use of Bayesian inference for deriving logically sensible conclusions from data (which I employed as part of my Ph.D. thesis). Consequently, I am now transitioning into data science, such that I can focus on handling data, and the art of deciding how to analyse and present it."
+    "text": "Future\nDuring the course of my studies, I came to be fascinated by the statistical methods used as part of the scientific method. I became especially intrigued by the use of Bayesian inference for deriving logically sensible conclusions from data (which I employed as part of my Ph.D. thesis). Consequently, I am now transitioning into data science and analytics, such that I can focus on handling data, and the art of deciding how to analyse and present it. I’m especially keen on working within the public sector, employing my skills for the good of people over profit."
   },
   {
     "objectID": "index.html",
@@ -19,6 +19,13 @@
     "title": "Connor Wessel",
     "section": "",
     "text": "Psychology Ph.D. graduate specialising in cognitive and behavioural sciences, psychophysics, and data science.\n\n\n Back to top"
+  },
+  {
+    "objectID": "puzzle.html",
+    "href": "puzzle.html",
+    "title": "Puzzles",
+    "section": "",
+    "text": "Since I enjoy solving daily puzzles, I’ve added this page to compile widgets for some online favourites I’ve found. Enjoy!\n\nCrossword\n\n\n\n\nLoading  crossword puzzle. One moment please.\n\n\n\nCredit to BoatLoadPuzzles\n\n\n\n\n\nSudoku\n\n\n\n\n\n\nWant more? Solve more Sudoku puzzles online.\n\n\n\nCredit to SudokuBase\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "cv.html",
@@ -46,14 +53,14 @@
     "href": "cv.html#talks",
     "title": "Curriculum Vitae",
     "section": "Talks",
-    "text": "Talks\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, July). Equating perceived duration between flat and percussivetones through an adaptive staircase. Presented at The Society for Music Perception and CognitionConference, Banff, Alberta, Canada.\n\n\nWessel, C. & Schutz, M. (2023, October). Improving the detectability of auditory alarms by adding highharmonics. Presented at Acoustics Week Canada, Montréal, Quebec, Canada.\n\n\nElizondo Lopez, A., Wessel, C. & Schutz, M. (2023, March). Improving the detection of auditory alarms byadding orchestral triangle frequencies. Presented at The York Graduate Symposium – Forward Motion,Toronto, Ontario, Canada."
+    "text": "Talks\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, July). Equating perceived duration between flat and percussive tones through an adaptive staircase. Presented at The Society for Music Perception and Cognition Conference, Banff, Alberta, Canada.\n\n\nWessel, C. & Schutz, M. (2023, October). Improving the detectability of auditory alarms by adding high harmonics. Presented at Acoustics Week Canada, Montréal, Quebec, Canada.\n\n\nElizondo Lopez, A., Wessel, C. & Schutz, M. (2023, March). Improving the detection of auditory alarms by adding orchestral triangle frequencies. Presented at The York Graduate Symposium – Forward Motion, Toronto, Ontario, Canada."
   },
   {
     "objectID": "cv.html#posters",
     "href": "cv.html#posters",
     "title": "Curriculum Vitae",
     "section": "Posters",
-    "text": "Posters\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, November). Adaptively equating perceived duration of flat and percussive tones. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, May). Adaptively matching the perceptual duration of flat andpercussive tones. Presented at The Meeting of the Acoustical Society of America, Ottawa, Ontario,Canada.\n\n\nWessel, C. & Schutz, M. (2024, February). Measuring how perceptual binding influences discrimination ofmelodic sequences. Presented at The Lower Ontario Visionary Establishment Conference, NiagaraFalls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2024, January). Visualising differences between strikes on a cymbal.Presented at The Space Between, Montréal, Quebec, Canada.\n\n\nZhang, C.,Wessel, C., & Schutz, M. (2024, February). Assessing the Perceived Duration of Percussive Tones(Poster). Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2023, November). Improving sound discrimination through Gestalt binding ofinharmonic frequencies. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nEdworthy, J., Wessel, C., & Brown, R. (2023, June). Developing sounds and metrics for a smart bicycle bell(Poster). Presented at The International Conference on Auditory Display, Norrköping, Sweden.\n\n\nWessel, C. & Schutz, M. (2023, February). Improving the detectability of auditory alarms by adding highharmonics. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls,Ontario, Canada."
+    "text": "Posters\n\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, November). Adaptively equating perceived duration of flat and percussive tones. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nWessel, C., Zhang, C., & Schutz, M. (2024, May). Adaptively matching the perceptual duration of flat and percussive tones. Presented at The Meeting of the Acoustical Society of America, Ottawa, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2024, February). Measuring how perceptual binding influences discrimination of melodic sequences. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2024, January). Visualising differences between strikes on a cymbal. Presented at The Space Between, Montréal, Quebec, Canada.\n\n\nZhang, C.,Wessel, C., & Schutz, M. (2024, February). Assessing the Perceived Duration of Percussive Tones. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.\n\n\nWessel, C. & Schutz, M. (2023, November). Improving sound discrimination through Gestalt binding of inharmonic frequencies. Presented at Neuromusic, Hamilton, Ontario, Canada.\n\n\nEdworthy, J., Wessel, C., & Brown, R. (2023, June). Developing sounds and metrics for a smart bicycle bell. Presented at The International Conference on Auditory Display, Norrköping, Sweden.\n\n\nWessel, C. & Schutz, M. (2023, February). Improving the detectability of auditory alarms by adding high harmonics. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada."
   },
   {
     "objectID": "blog.html",
