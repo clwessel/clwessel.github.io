@@ -1,0 +1,28 @@
+---
+title: Puzzles
+---
+
+Since I enjoy solving daily puzzles, I've added this page to compile widgets for some online favourites I've found. Enjoy!
+
+# Crossword
+
+\
+
+<script type="text/javascript">
+boatload_puzzles_format = 'Landscape';</script>
+<p>Loading <a href="https://www.boatloadpuzzles.com/playcrossword">
+crossword puzzle</a>. One moment please.</p>
+<script type="text/javascript"
+src="//www.boatloadpuzzles.com/Crossword.js"></script>
+
+>Credit to [BoatLoadPuzzles](https://www.boatloadpuzzles.com/playcrossword)
+
+\
+
+# Sudoku
+
+\
+
+<div style="width:700px;"><iframe src="https://www.sudokubase.com/embed/game?showTimer=true&showInputButtons=true&mode=daily" width="700px" height="600px"></iframe><p style="text-align:center;color:gray">Want more? Solve <a href="https://www.sudokubase.com">more Sudoku</a> puzzles online.</p></div>
+
+>Credit to [SudokuBase](https://www.sudokubase.com/)

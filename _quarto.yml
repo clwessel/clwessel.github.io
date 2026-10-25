@@ -10,8 +10,12 @@ website:
         text: About
       - href: cv.qmd
         text: CV
-      - href: blog.qmd
-        text: Blog
+      - text: More
+        menu:
+          - text: Blog
+            href: blog.qmd
+          - text: Puzzles
+            href: puzzle.qmd
     tools: 
       - icon: envelope
         href: clwessel@proton.me

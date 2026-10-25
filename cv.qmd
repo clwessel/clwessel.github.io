@@ -103,9 +103,9 @@ title: "Curriculum Vitae"
 
 ::: {.list-table header-rows=0 .hover .borderless}
 
-- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, July). Equating perceived duration between flat and percussivetones through an adaptive staircase. Presented at The Society for Music Perception and CognitionConference, Banff, Alberta, Canada.
-- - **Wessel, C.** & Schutz, M. (2023, October). Improving the detectability of auditory alarms by adding highharmonics. Presented at Acoustics Week Canada, Montréal, Quebec, Canada.
-- - Elizondo Lopez, A., **Wessel, C.** & Schutz, M. (2023, March). Improving the detection of auditory alarms byadding orchestral triangle frequencies. Presented at The York Graduate Symposium – Forward Motion,Toronto, Ontario, Canada.
+- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, July). Equating perceived duration between flat and percussive tones through an adaptive staircase. Presented at The Society for Music Perception and Cognition Conference, Banff, Alberta, Canada.
+- - **Wessel, C.** & Schutz, M. (2023, October). Improving the detectability of auditory alarms by adding high harmonics. Presented at Acoustics Week Canada, Montréal, Quebec, Canada.
+- - Elizondo Lopez, A., **Wessel, C.** & Schutz, M. (2023, March). Improving the detection of auditory alarms by adding orchestral triangle frequencies. Presented at The York Graduate Symposium – Forward Motion, Toronto, Ontario, Canada.
 
 :::
 
@@ -114,13 +114,13 @@ title: "Curriculum Vitae"
 ::: {.list-table header-rows=0 .hover .borderless}
 
 - - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, November). Adaptively equating perceived duration of flat and percussive tones. Presented at Neuromusic, Hamilton, Ontario, Canada.
-- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, May). Adaptively matching the perceptual duration of flat andpercussive tones. Presented at The Meeting of the Acoustical Society of America, Ottawa, Ontario,Canada.
-- - **Wessel, C.** & Schutz, M. (2024, February). Measuring how perceptual binding influences discrimination ofmelodic sequences. Presented at The Lower Ontario Visionary Establishment Conference, NiagaraFalls, Ontario, Canada.
-- - **Wessel, C.** & Schutz, M. (2024, January). Visualising differences between strikes on a cymbal.Presented at The Space Between, Montréal, Quebec, Canada.
-- - Zhang, C.,**Wessel, C.**, & Schutz, M. (2024, February). Assessing the Perceived Duration of Percussive Tones(Poster). Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.
-- - **Wessel, C.** & Schutz, M. (2023, November). Improving sound discrimination through Gestalt binding ofinharmonic frequencies. Presented at Neuromusic, Hamilton, Ontario, Canada.
-- - Edworthy, J., **Wessel, C.**, & Brown, R. (2023, June). Developing sounds and metrics for a smart bicycle bell(Poster). Presented at The International Conference on Auditory Display, Norrköping, Sweden.
-- - **Wessel, C.** & Schutz, M. (2023, February). Improving the detectability of auditory alarms by adding highharmonics. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls,Ontario, Canada.
+- - **Wessel, C.**, Zhang, C., & Schutz, M. (2024, May). Adaptively matching the perceptual duration of flat and percussive tones. Presented at The Meeting of the Acoustical Society of America, Ottawa, Ontario, Canada.
+- - **Wessel, C.** & Schutz, M. (2024, February). Measuring how perceptual binding influences discrimination of melodic sequences. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.
+- - **Wessel, C.** & Schutz, M. (2024, January). Visualising differences between strikes on a cymbal. Presented at The Space Between, Montréal, Quebec, Canada.
+- - Zhang, C.,**Wessel, C.**, & Schutz, M. (2024, February). Assessing the Perceived Duration of Percussive Tones. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.
+- - **Wessel, C.** & Schutz, M. (2023, November). Improving sound discrimination through Gestalt binding of inharmonic frequencies. Presented at Neuromusic, Hamilton, Ontario, Canada.
+- - Edworthy, J., **Wessel, C.**, & Brown, R. (2023, June). Developing sounds and metrics for a smart bicycle bell. Presented at The International Conference on Auditory Display, Norrköping, Sweden.
+- - **Wessel, C.** & Schutz, M. (2023, February). Improving the detectability of auditory alarms by adding high harmonics. Presented at The Lower Ontario Visionary Establishment Conference, Niagara Falls, Ontario, Canada.
 
 :::
 

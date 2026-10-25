@@ -44,7 +44,7 @@ To see my work in greater depth, take a look at my [<u>publications</u>](cv.qmd#
 
 ## Future
 
-During the course of my studies, I came to be fascinated by the quantitative methods used as part of the scientific method. I became especially intrigued by the use of Bayesian inference for deriving logically sensible conclusions from data (which I employed as part of my Ph.D. thesis). Consequently, I am now transitioning into data science, such that I can focus on handling data, and the art of deciding how to analyse and present it. 
+During the course of my studies, I came to be fascinated by the statistical methods used as part of the scientific method. I became especially intrigued by the use of Bayesian inference for deriving logically sensible conclusions from data (which I employed as part of my Ph.D. thesis). Consequently, I am now transitioning into data science and analytics, such that I can focus on handling data, and the art of deciding how to analyse and present it. I'm especially keen on working within the public sector, employing my skills for the good of people over profit.
 
 # Song of the Week
 
