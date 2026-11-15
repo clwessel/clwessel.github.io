@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://clwessel.github.io/puzzle.html</loc>
-    <lastmod>2026-11-07T18:48:11.142Z</lastmod>
+    <loc>https://clwessel.github.io/blog.html</loc>
+    <lastmod>2026-11-15T12:13:42.161Z</lastmod>
   </url>
   <url>
     <loc>https://clwessel.github.io/cv.html</loc>
-    <lastmod>2026-11-07T18:48:11.132Z</lastmod>
+    <lastmod>2026-11-15T12:13:42.161Z</lastmod>
   </url>
   <url>
-    <loc>https://clwessel.github.io/about.html</loc>
-    <lastmod>2026-11-07T18:48:11.132Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clwessel.github.io/blog.html</loc>
-    <lastmod>2026-11-07T18:48:11.132Z</lastmod>
+    <loc>https://clwessel.github.io/puzzle.html</loc>
+    <lastmod>2026-11-15T12:13:42.169Z</lastmod>
   </url>
   <url>
     <loc>https://clwessel.github.io/index.html</loc>
-    <lastmod>2026-11-07T18:48:11.142Z</lastmod>
+    <lastmod>2026-11-15T12:13:42.169Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clwessel.github.io/about.html</loc>
+    <lastmod>2026-11-15T12:13:42.161Z</lastmod>
   </url>
 </urlset>
